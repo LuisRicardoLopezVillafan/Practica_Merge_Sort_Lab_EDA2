@@ -1,9 +1,8 @@
 # Practica_Merge_Sort_Lab_EDA2
-# Practica_Merge_Sort_Lab_EDA2
 
-# Ejercicio de Programación en C: Implementación de Merge Sort
+## Ejercicio de Programación en C: Implementación de Merge Sort
 
-## Descripción del Problema
+### Descripción del Problema
 Se desea implementar un programa en **C** que utilice el algoritmo **Merge Sort** para ordenar datos.  
 El programa debe recibir como entrada `n` arreglos lineales, cada uno de tamaño `n`.  
 La salida debe ser **un solo arreglo lineal** que contenga todos los elementos de los arreglos de entrada en **orden creciente**.
@@ -12,7 +11,7 @@ En otras palabras, si tenemos `n` arreglos de tamaño `n`, el programa debe devo
 
 ---
 
-## Requisitos
+### Requisitos
 1. Implementar la función **Merge** para combinar dos subarreglos en orden.
 2. Leer los datos de entrada desde la consola:
    - Primero, el número `n`.
@@ -24,7 +23,7 @@ En otras palabras, si tenemos `n` arreglos de tamaño `n`, el programa debe devo
 
 ---
 
-## Ejemplo de Entrada
+### Ejemplo de Entrada
 Sea $n = 3$.
 $$A_1 = \{ 3, 1, 5 \}$$
 
