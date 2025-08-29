@@ -25,6 +25,7 @@ En otras palabras, si tenemos `n` arreglos de tamaño `n`, el programa debe devo
 
 ### Ejemplo de Entrada
 Sea $n = 3$.
+
 $$A_1 = \{ 3, 1, 5 \}$$
 
 $$A_2 = \{ 2, 9, 4 \}$$
